@@ -23,6 +23,11 @@ go mod tidy
 go run main.go
 ```
 
+4. Or use Make commands to run
+```
+    make help
+```
+
 # API Endpoints
 ### Base URL
 
